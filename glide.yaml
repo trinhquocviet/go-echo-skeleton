@@ -1,4 +1,8 @@
 package: github.com/trinhquocviet/template__go__api__echo
+owners:
+- name: Viet Trinh
+  email: viettrinh271291@gmail.com
+  homepage: https://viettrinh.xyz
 import:
 - package: github.com/labstack/echo
   version: ^3.3.5
@@ -8,6 +12,3 @@ import:
 - package: github.com/Sirupsen/logrus
   version: ^1.0.5
 - package: golang.org/x/crypto
-  subpackages:
-  - acme/autocert
-  - acme/...
