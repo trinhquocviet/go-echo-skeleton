@@ -1,6 +1,0 @@
-{
-  "Port": "8080",
-  "HeaderAllowOrigins": "*",
-  "HeaderAllowMethods": "GET,POST,PUT,DELETE,OPTIONS",
-  "HeaderAllowHeaders": "X-ACCESS-TOKEN,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With"
-}
